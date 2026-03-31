@@ -1,8 +1,8 @@
 # buildthefounder
-Modified lead-generation playbooks for the Founder First Approach™ — Build the founder. Build the future.™
+Modified playbooks for the Founder First Approach™ — Build the founder. Build the future.™
 
 **Founder First Approach™**  
-Modified impact playbooks by Jose Huitron
+Modified playbooks by Jose Huitron
 
 In a world obsessed with products, metrics, and velocity, we believe the highest-leverage work is **building the founder first**.  
 
