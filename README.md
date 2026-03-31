@@ -16,7 +16,7 @@ The **Founder First Approach™** places **people before products** and centers 
 **How to use these tools**  
 1. Download the Markdown or PDF  
 2. Reflect and apply in your daily trench  
-3. When you’re ready for the full proprietary system, personalized coaching, or group cohort, reach out at [linkedin.com/in/thejosehuitron](https://www.linkedin.com/in/thejosehuitron) or edifyventures.com
+3. When you’re ready for the full proprietary system, personalized coaching, or group cohort, reach out at https://www.linkedin.com/in/jhuitron/ or edifyventures.com
 
 **Disclaimers & Legal**  
 These are modified lead-generation versions of the proprietary **Founder First Approach™** developed by Jose Huitron of Edify Ventures. They are shared for personal and educational use only. The complete framework, implementation systems, scoring rubrics, and live coaching are available exclusively through Edify Ventures programs.  
