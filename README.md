@@ -29,5 +29,5 @@ See [LICENSE](LICENSE) — MIT for the files + leadership and Kingdom use encour
 
 ---
 **Jose Huitron**  
-Founder, Edify Ventures 
-Founder + Coach, 805 Trench Lab™
+CEO @ Edify Ventures 
+
